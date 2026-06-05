@@ -24,6 +24,7 @@ Hello! I'm Shalini A, an aspiring Data Analyst with hands-on experience in Power
 Analyzed employee demographics, job satisfaction, salary distribution, and workforce trends using Power BI.
 
 ### Retail Sales Analysis (Tableau)
+[Tableau Dashboard](Screenshot%202026-05-06%20171238.png)
 Built interactive dashboards to analyze sales, profit, and customer trends.
 
 ### Sales Analytics Dashboard (Excel & Power Query)
