@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# HR Analytics Dashboard (Power BI)
 
 ## 🎯 Objective
 To analyze employee data and identify key factors affecting attrition, job satisfaction, and salary trends.
