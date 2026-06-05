@@ -1,4 +1,4 @@
-# Retail Sales Analysis Dashboard
+# Retail Sales Analysis Dashboard (Tableau)
 
 ## 🎯 Objective
 To analyze retail sales performance and identify trends in profit, sales, discount impact, and customer segments using Tableau.
