@@ -1,0 +1,7 @@
+# Retail Sales Analysis Dashboard
+
+## Description
+Built an interactive Tableau dashboard using the Superstore dataset to analyze sales, profit, discounts, and customer segments. Created visualizations and filters to identify business trends and support data-driven decision-making.
+
+## Skills
+Tableau, Data Visualization, Dashboard Development, Data Analysis, Business Intelligence
