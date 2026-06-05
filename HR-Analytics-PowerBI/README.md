@@ -1,7 +1,8 @@
 # HR Analytics Dashboard
-### HR Analytics Dashboard (Power BI)
 
-![HR Analytics Dashboard](HR-Analytics-PowerBI/Screenshot%202026-05-07%20155957.png)
+## Dashboard Preview
+
+![HR Analytics Dashboard](Screenshot%202026-05-07%20155957.png)
 
 Analyzed employee demographics, job satisfaction, salary distribution, and workforce trends using Power BI.
 ## Description
