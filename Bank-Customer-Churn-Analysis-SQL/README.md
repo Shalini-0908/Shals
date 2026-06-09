@@ -32,7 +32,7 @@ This project analyzes customer churn in a banking dataset using SQL. The objecti
 ## 📸 SQL Analysis Results
 
 ### 🌍 Customer Distribution by Country
-![Customer Distribution](Screenshot 2026-06-09 150242.png)
+![Customer Distribution](Screenshot%2026-06-09%150242.png)
 
 ### 🇩🇪 Churn Analysis by Country
 ![Churn by Country](Bank-Customer-Churn-Analysis-SQL/Screenshot 2026-06-09 150703.pngg)
@@ -50,7 +50,7 @@ This project analyzes customer churn in a banking dataset using SQL. The objecti
 ![Products Analysis](Bank-Customer-Churn-Analysis-SQL/Screenshot 2026-06-09 152032.png)
 
 ### 💰 Balance Category Analysis
-![Balance Analysis](Screenshots/balance_analysis.png)
+![Balance Analysis](Bank-Customer-Churn-Analysis-SQL/Screenshot 2026-06-09 152642.png)
 
 ## 🎯 Skills Demonstrated
 
