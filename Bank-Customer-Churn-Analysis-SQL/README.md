@@ -47,7 +47,7 @@ This project analyzes customer churn in a banking dataset using SQL. The objecti
 ![Active vs Inactive](Bank-Customer-Churn-Analysis-SQL/Screenshot 2026-06-09 151814.png)
 
 ### 🛒 Churn by Number of Products
-![Products Analysis](Screenshots/products_analysis.png)
+![Products Analysis](Bank-Customer-Churn-Analysis-SQL/Screenshot 2026-06-09 152032.png)
 
 ### 💰 Balance Category Analysis
 ![Balance Analysis](Screenshots/balance_analysis.png)
