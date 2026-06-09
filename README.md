@@ -21,6 +21,14 @@ Welcome to my Data Analytics Portfolio! I am **Shalini A**, an aspiring Data Ana
 
 ## 📂 Projects
 
+### 📊 Bank Customer Churn Analysis (SQL)
+
+Performed end-to-end customer churn analysis using SQL to identify key factors affecting customer retention such as demographics, account activity, number of products, balance categories, and geography. Created multiple segmented analyses including churn by country, gender, age group, product usage, and customer activity status to generate actionable business insights.
+
+The project helps understand customer behavior patterns and highlights high-risk churn segments for better retention strategies.
+
+**Skills:** SQL, Data Analysis, Data Segmentation, Aggregations, CASE WHEN, Group By, Business Insights
+
 ### 📈 HR Analytics Dashboard (Power BI)
 
 Developed an interactive HR Analytics Dashboard to analyze employee demographics, job satisfaction, salary trends, attrition, and workforce distribution. Created dynamic visualizations and KPIs to support HR decision-making.
