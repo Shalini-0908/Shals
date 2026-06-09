@@ -29,6 +29,29 @@ This project analyzes customer churn in a banking dataset using SQL. The objecti
 - Customers with 3–4 products showed extremely high churn rates.
 - High-balance customers had the highest churn rate among balance categories.
 
+## 📸 SQL Analysis Results
+
+### 🌍 Customer Distribution by Country
+![Customer Distribution](Screenshots/customer_distribution_country.png)
+
+### 🇩🇪 Churn Analysis by Country
+![Churn by Country](Screenshots/churn_country.png)
+
+### 👩‍🦰👨 Churn Analysis by Gender
+![Churn by Gender](Screenshots/churn_gender.png)
+
+### 👥 Churn Analysis by Age Group
+![Churn by Age Group](Screenshots/churn_age_group.png)
+
+### ✅ Active vs Inactive Customers
+![Active vs Inactive](Screenshots/active_inactive.png)
+
+### 🛒 Churn by Number of Products
+![Products Analysis](Screenshots/products_analysis.png)
+
+### 💰 Balance Category Analysis
+![Balance Analysis](Screenshots/balance_analysis.png)
+
 ## 🎯 Skills Demonstrated
 
 - SQL Queries
