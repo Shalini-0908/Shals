@@ -32,22 +32,22 @@ This project analyzes customer churn in a banking dataset using SQL. The objecti
 ## 📸 SQL Analysis Results
 
 ### 🌍 Customer Distribution by Country
-![Customer Distribution](Bank-Customer-Churn-Analysis-SQL/Screenshot 2026-06-09 150242.png)
+![Customer Distribution](Bank-Customer-Churn-Analysis-SQL/Screenshot%202026-06-09%20150242.png)
 
 ### 🇩🇪 Churn Analysis by Country
-![Churn by Country](Bank-Customer-Churn-Analysis-SQL/Screenshot 2026-06-09 150703.pngg)
+![Churn by Country](Bank-Customer-Churn-Analysis-SQL/Screenshot%202026-06-09%20150703.png)
 
 ### 👩‍🦰👨 Churn Analysis by Gender
-![Churn by Gender](Bank-Customer-Churn-Analysis-SQL/Screenshot 2026-06-09 151303.png)
+![Churn by Gender](Bank-Customer-Churn-Analysis-SQL/Screenshot%202026-06-09%20151303.png)
 
 ### 👥 Churn Analysis by Age Group
-![Churn by Age Group](Bank-Customer-Churn-Analysis-SQL/Screenshot 2026-06-09 151609.png)
+![Churn by Age Group](Bank-Customer-Churn-Analysis-SQL/Screenshot%202026-06-09%20151609.png)
 
 ### ✅ Active vs Inactive Customers
-![Active vs Inactive](Bank-Customer-Churn-Analysis-SQL/Screenshot 2026-06-09 151814.png)
+![Active vs Inactive](Bank-Customer-Churn-Analysis-SQL/Screenshot%202026-06-09%20151814.png)
 
 ### 🛒 Churn by Number of Products
-![Products Analysis](Bank-Customer-Churn-Analysis-SQL/Screenshot%202026-06-09%152032.png)
+![Products Analysis](Bank-Customer-Churn-Analysis-SQL/Screenshot%202026-06-09%20152032.png)
 
 ### 💰 Balance Category Analysis
 ![Balance Analysis](Bank-Customer-Churn-Analysis-SQL/Screenshot%202026-06-09%20152642.png)
