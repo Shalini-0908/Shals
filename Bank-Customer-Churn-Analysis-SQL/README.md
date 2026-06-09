@@ -41,7 +41,7 @@ This project analyzes customer churn in a banking dataset using SQL. The objecti
 ![Churn by Gender](Bank-Customer-Churn-Analysis-SQL/Screenshot 2026-06-09 151303.png)
 
 ### 👥 Churn Analysis by Age Group
-![Churn by Age Group](Screenshots/churn_age_group.png)
+![Churn by Age Group](Bank-Customer-Churn-Analysis-SQL/Screenshot 2026-06-09 151609.png)
 
 ### ✅ Active vs Inactive Customers
 ![Active vs Inactive](Screenshots/active_inactive.png)
