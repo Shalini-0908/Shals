@@ -52,7 +52,7 @@ This project focuses on analyzing e-commerce customer behavior, sales performanc
 ## 📸 Dashboard & Visualizations
 
 ### 📈 Monthly Orders Trend
-![Monthly Orders Trend](monthly_orders_trend.png)
+![Monthly Orders Trend](Ecommerce-Sales-Analysis-Python/Screenshot 2026-06-09 113356.png)
 
 ### 🛒 Top 10 Products by Revenue
 ![Top Products](top_10_products_revenue.png)
