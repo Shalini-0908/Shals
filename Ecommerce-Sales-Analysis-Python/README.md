@@ -51,21 +51,17 @@ This project focuses on analyzing e-commerce customer behavior, sales performanc
 
 ## 📸 Dashboard & Visualizations
 
-### 💰 Monthly Revenue Trend
+### 📈 Monthly Orders Trend
+![Monthly Orders Trend](monthly_orders_trend.png)
 
-![Revenue Trend](Screenshots/Revenue_Trend.png)
+### 🛒 Top 10 Products by Revenue
+![Top Products](top_10_products_revenue.png)
 
-### 👥 Customer Churn Analysis
+### 💰 Revenue by Category
+![Revenue by Category](revenue_by_category.png)
 
-![Customer Churn](Screenshots/Customer_Churn.png)
-
-### 🛒 Top Products by Revenue
-
-![Top Products](Screenshots/Top_Products.png)
-
-### 📊 Revenue by Category
-
-![Revenue by Category](Screenshots/Revenue_By_Category.png)
+### 👥 Customer Churn Distribution
+![Customer Churn](customer_churn_distribution.png)
 
 ## 🎯 Skills Demonstrated
 
