@@ -58,19 +58,19 @@ This project analyzes hospital performance using PostgreSQL and Power BI. A rela
 
 ### 👨‍⚕️ Doctor-wise Patient Distribution
 
-![Doctor Patient Analysis](Screenshot@202026-06-27%20125518.png)
+![Doctor Patient Analysis](Screenshot%202026-06-27%20125518.png)
 
 ### 📅 Monthly Revenue & Treatment Cost Trend
 
-![Monthly Revenue](Hospital-Performance-Analysis/Screenshot%202026-06-27%20125654.png)
+![Monthly Revenue](Screenshot%202026-06-27%20125654.png)
 
 ### 💳 Billing Payment Status
 
-![Payment Status](Hospital-Performance-Analysis/Screenshot%202026-06-27%20125831.png)
+![Payment Status](Screenshot%202026-06-27%20125831.png)
 
 ### 🚻 Department-wise Patient Distribution by Gender
 
-![Department Gender Analysis](Department_Gender_Query.png)
+![Department Gender Analysis](Screenshot%202026-06-27%20130108.png)
 
 ### 📊 Power BI Dashboard
 
