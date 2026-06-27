@@ -58,7 +58,7 @@ This project analyzes hospital performance using PostgreSQL and Power BI. A rela
 
 ### 👨‍⚕️ Doctor-wise Patient Distribution
 
-![Doctor Patient Analysis](Doctor_Patient_Count_Query.png)
+![Doctor Patient Analysis](Screenshot@202026-06-27%20125518.png)
 
 ### 📅 Monthly Revenue & Treatment Cost Trend
 
