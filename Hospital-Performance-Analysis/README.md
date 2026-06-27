@@ -1,29 +1,98 @@
-# Hospital Performance Analysis
+# 🏥 Hospital Performance Analysis Using PostgreSQL & Power BI
 
-## Project Overview
+## 📌 Project Overview
 
-This project analyzes hospital performance using PostgreSQL and Power BI. The database contains five tables: Departments, Doctors, Patients, Admissions, and Billing. The dashboard provides insights into hospital revenue, patient admissions, treatment costs, doctor performance, department performance, and billing status.
+This project analyzes hospital performance using PostgreSQL and Power BI. A relational database was designed with five interconnected tables to manage hospital data. SQL queries were used to generate business insights, and an interactive Power BI dashboard was developed to visualize key performance metrics for better decision-making.
 
-## Tools Used
+## 🛠️ Tools & Technologies
 
 * PostgreSQL
 * SQL
 * Power BI
 * DAX
 
-## Key Features
+## 🗂️ Database Tables
 
-* Total Patients
-* Total Admissions
-* Total Revenue
-* Average Treatment Cost
-* Bills Paid
-* Department-wise Revenue
+* 👨‍⚕️ Doctors
+* 🏥 Departments
+* 🧑‍🤝‍🧑 Patients
+* 🏨 Admissions
+* 💳 Billing
+
+## 📊 Dashboard KPIs
+
+* 👥 Total Patients
+* 🏨 Total Admissions
+* 💰 Total Revenue
+* 💵 Average Treatment Cost
+* ✅ Payment Statua
+
+## 📊 Key Analyses
+
+* Department-wise Revenue Analysis
 * Monthly Revenue & Treatment Cost Trend
 * Revenue & Treatment Cost by City
-* Doctor-wise Patient Analysis
+* Doctor-wise Patient Distribution
 * Department-wise Patient Distribution by Gender
+* Billing Payment Status Analysis
+* Hospital KPI Dashboard
 
-## Dataset
+## 🔍 Key Insights
 
-This project uses a synthetic dataset generated using SQL for educational and portfolio purposes. No real patient data is included.
+* Identified the highest revenue-generating departments.
+* Analyzed monthly revenue and treatment cost trends.
+* Compared revenue and treatment costs across different cities.
+* Evaluated patient distribution across doctors and departments.
+* Monitored billing payment status (Paid vs Pending).
+* Tracked key hospital performance metrics using interactive KPIs.
+
+## 📸 Project Screenshots
+
+### 🗄️ Database Tables (pgAdmin)
+
+![Database Tables](pgAdmin_Database.png)
+
+### 💰 Department-wise Revenue
+
+![Department Revenue](Department_Revenue_Query.png)
+
+### 👨‍⚕️ Doctor-wise Patient Distribution
+
+![Doctor Patient Analysis](Doctor_Patient_Count_Query.png)
+
+### 📅 Monthly Revenue & Treatment Cost Trend
+
+![Monthly Revenue](Monthly_Revenue_Query.png)
+
+### 💳 Billing Payment Status
+
+![Payment Status](Payment_Status_Query.png)
+
+### 🚻 Department-wise Patient Distribution by Gender
+
+![Department Gender Analysis](Department_Gender_Query.png)
+
+### 📊 Power BI Dashboard
+
+![Hospital Dashboard](PowerBI_Dashboard.png)
+
+## 🎯 Skills Demonstrated
+
+* PostgreSQL
+* SQL Queries
+* Database Design
+* Table Creation
+* Data Insertion
+* INNER JOIN
+* Aggregate Functions
+* GROUP BY
+* UNION ALL
+* DAX
+* Power BI Dashboard Development
+* Data Visualizationa
+* Business Analytics
+* Data Interpretation
+
+## 📌 Note
+
+This project uses a **synthetic dataset** generated using PostgreSQL's `generate_series()` function and SQL scripts for educational and portfolio purposes. No real patient data is included.
