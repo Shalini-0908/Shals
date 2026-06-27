@@ -27,7 +27,7 @@ This project analyzes hospital performance using PostgreSQL and Power BI. A rela
 * 💵 Average Treatment Cost
 * ✅ Payment Statua
 
-## 📊 Key Analyses
+## 📈 Key Analyses
 
 * Department-wise Revenue Analysis
 * Monthly Revenue & Treatment Cost Trend
@@ -46,7 +46,7 @@ This project analyzes hospital performance using PostgreSQL and Power BI. A rela
 * Monitored billing payment status (Paid vs Pending).
 * Tracked key hospital performance metrics using interactive KPIs.
 
-## 📸 Project Screenshots
+## 📸 Dashboard Preview
 
 ### 🗄️ Database Tables (pgAdmin)
 
