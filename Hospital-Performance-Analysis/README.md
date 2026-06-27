@@ -62,7 +62,7 @@ This project analyzes hospital performance using PostgreSQL and Power BI. A rela
 
 ### 📅 Monthly Revenue & Treatment Cost Trend
 
-![Monthly Revenue](Monthly_Revenue_Query.png)
+![Monthly Revenue](Hospital-Performance-Analysis/Screenshot%202026-06-27%20125654.png)
 
 ### 💳 Billing Payment Status
 
