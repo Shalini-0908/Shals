@@ -21,6 +21,12 @@ Welcome to my Data Analytics Portfolio! I am **Shalini A**, an aspiring Data Ana
 
 ## 📂 Projects
 
+### 🏥 Hospital Performance & Patient Care Analysis
+
+Developed a comprehensive healthcare analytics project to evaluate hospital operational efficiency, patient care quality, and resource utilization. Analyzed key metrics including patient readmission rates, average length of stay (LOS), mortality rates, ER wait times, and department-wise bed occupancy. Identified bottlenecks in patient workflows and provided data-driven recommendations to improve clinical outcomes and optimize staffing allocation.
+
+**Skills:** Data Analysis, Healthcare Analytics, Trend Analysis, KPI Development, Operational Efficiency
+
 ### 📊 Bank Customer Churn Analysis (SQL)
 
 Performed end-to-end customer churn analysis using SQL to identify key factors affecting customer retention such as demographics, account activity, number of products, balance categories, and geography. Created multiple segmented analyses including churn by country, gender, age group, product usage, and customer activity status to generate actionable business insights.
