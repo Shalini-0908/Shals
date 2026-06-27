@@ -74,7 +74,7 @@ This project analyzes hospital performance using PostgreSQL and Power BI. A rela
 
 ### 📊 Power BI Dashboard
 
-![Hospital Dashboard](Screenshot202026-06-27 123346.png)
+![Hospital Dashboard](Screenshot%202026-06-27%20123346.png)
 
 ## 🎯 Skills Demonstrated
 
