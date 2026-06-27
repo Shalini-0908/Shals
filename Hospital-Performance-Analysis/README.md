@@ -54,7 +54,7 @@ This project analyzes hospital performance using PostgreSQL and Power BI. A rela
 
 ### 💰 Department-wise Revenue
 
-![Department Revenue](Department_Revenue_Query.png)
+![Department Revenue](Screenshot%202026-06-27%20125244.png)
 
 ### 👨‍⚕️ Doctor-wise Patient Distribution
 
