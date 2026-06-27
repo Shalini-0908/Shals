@@ -66,7 +66,7 @@ This project analyzes hospital performance using PostgreSQL and Power BI. A rela
 
 ### 💳 Billing Payment Status
 
-![Payment Status](Payment_Status_Query.png)
+![Payment Status](Hospital-Performance-Analysis/Screenshot%202026-06-27%20125831.png)
 
 ### 🚻 Department-wise Patient Distribution by Gender
 
